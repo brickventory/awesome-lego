@@ -10,6 +10,7 @@ A curated list resources and links to LEGO related content.
 - [Building Instructions](https://www.lego.com/service/buildinginstructions)
 - [Digital Designer](https://www.lego.com/en-us/ldd) - virtual 3D modelling software from LEGO.
 - [LEGO Ambassador Network](https://lan.lego.com) - officially supported Community Locator and Calendar for AFOL - Adult Fans of LEGO.
+- [LEGO Ideas](https://ideas.lego.com) - Share ideas for new LEGO products and vote for your favorites to make them become real products.
 
 ## Resources
 
@@ -23,6 +24,7 @@ A curated list resources and links to LEGO related content.
 - [LDraw](https://www.ldraw.org) - open standard for LEGO CAD programs.
 - [LeoCAD](https://www.leocad.org) - cross platform, open source, LDrwa compatible virtual CAD program for LEGO creations.
 - [LUGNET](https://www.lugnet.com) - International LEGO Users Group Network
+- [Micropolis Micro City Standard](https://twinlug.com/micropolis-micro-city-standard/)
 - [New Elementary](http://www.newelementary.com) - reviews and discussions about LEGO, with a focus on new elements.
 - [Peeron](http://www.peeron.com) - LEGO inventory list, but outdated.
 - [Rebrickable](https://rebrickable.com) - Combine your LEGO set to build new creations.
