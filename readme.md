@@ -15,6 +15,7 @@ A curated list resources and links to LEGO related content.
 ## Resources
 
 - [Brickarchitect](https://brickarchitect.com) - a site dedicated to architecture related LEGO models and storage of your LEGO collection.
+- [Brickhub](https://brickhub.org) - a site for sharing LEGO building instructions.
 - [Bricklink](https://www.bricklink.com) - a market place to buy and sell LEGO part and sets, new and used. They also maintain Studio, a 3D software.
 - [Brickowl](https://www.brickowl.com) - a market place for LEGO parts.
 - [Brick Picker](http://brickpicker.com) - LEGO price and investing guide.
