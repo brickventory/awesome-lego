@@ -37,6 +37,7 @@ A curated list resources and links to LEGO related content.
 - [Bricklink Studio](https://studio.bricklink.com) - offline programm to build virtual 3D models of LEGO models.
 - [Bricksmith](http://bricksmith.sourceforge.net) - virtual LEGO  modelling for MAC OS X.
 - [Mecabricks](https://www.mecabricks.com) - online platform to create virtual 3D LEGO models, also offers an online rendering service.
+- [LD4DStudio](http://www.ld4dstudio.nl) - LDraw animation tool by [Roland Melckert](http://www.rolandmelkert.nl)
 
 ## Books
 
